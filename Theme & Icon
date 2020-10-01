@@ -1,0 +1,21 @@
+sebelum menginstall tema, pastikan sudah menginstall tweaks terlebih dahulu, jika sudah maka langsung saja :
+  
+  1. Download tema
+  2. sudo chmod 777 -R /usr/share/themes (masuk root)
+  3. masuuk ke disk computer
+  4. pilih usr (jika belum ada silahkan ctrl+h)
+  5. masuk ke folder share
+  6. masuk ke folder themes dan paste file tema yang udah di extract.
+  7. masuk ke tweaks
+  8. pilih thema
+  
+  atau bisa menggunakan cara cepat yaitu dengan cara :
+  
+    ketikan perintah " nautilus " pada terminal, kemudian extract file yang sudah di download, selanjutkan drag and drop di folder yang terbuka
+    saat kita menuliskan perintah nautilus tadi, jika icon maka pilih folder directory icon, begitu juga dengan tema.
+      
+      untuk letak folder biasanya seperti ini -> computer/usr/share/themes
+                                                 computer/usr/share/icons
+                                                 
+      selesai dan restart
+  
